@@ -1,7 +1,7 @@
 
 # Student Management System App
 
-An application that manages student records, like grades, transcripts, schedules and personal information.
+An application that manages student records: grades, transcripts, schedules and personal information.
 
 
 
