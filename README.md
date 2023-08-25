@@ -1,5 +1,5 @@
 
-# Student Management System App
+# Student Management System
 
 An application that manages student records: grades, transcripts, schedules and personal information.
 
