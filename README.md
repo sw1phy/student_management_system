@@ -6,8 +6,6 @@ An application that manages student records: grades, transcripts, schedules and 
 
 
 
-
-
  ## Tools
 
  - [Apache NetBeams IDE 18](https://netbeans.apache.org/download/index.html)
