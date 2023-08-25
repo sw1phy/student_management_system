@@ -27,6 +27,11 @@ An application that manages student records, like grades, transcripts, schedules
 
 ## Color Reference
 
+#### Color Palette choosen from:
+
+ - [Color Hunt](https://colorhunt.co/palette/4a55a27895cba0bfe0c5dff8)
+
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Highlighted frames | ![#4A55A2](https://via.placeholder.com/10/4A55A2?text=+) #4A55A2 |
@@ -38,5 +43,4 @@ An application that manages student records, like grades, transcripts, schedules
 ## Font
 
  - [JetBrains Mono](https://www.jetbrains.com/es-es/lp/mono/)
-
 
