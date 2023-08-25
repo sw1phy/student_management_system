@@ -6,11 +6,6 @@ An application that manages student records: grades, transcripts, schedules and 
 
 
 
-## Tools
-
- - [Apache NetBeams IDE 18](https://netbeans.apache.org/download/index.html)
- - [MySQL Worbbench 8.0 CE](https://github.com/matiassingers/awesome-readme)
-
  ## Tools
 
  - [Apache NetBeams IDE 18](https://netbeans.apache.org/download/index.html)
